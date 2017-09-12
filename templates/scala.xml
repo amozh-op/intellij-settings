@@ -1,0 +1,5 @@
+<templateSet group="scala">
+  <template name="p" value="println(&quot;&quot; + $EXPR$)" description="Simple new line output" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>

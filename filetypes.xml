@@ -1,0 +1,24 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="vault" type="PLAIN_TEXT" />
+      <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="ResmatAPI-pid" type="PLAIN_TEXT" />
+      <mapping pattern="requirements" type="PLAIN_TEXT" />
+      <mapping pattern="serg" type="PLAIN_TEXT" />
+      <mapping pattern="dfr" type="PLAIN_TEXT" />
+      <mapping pattern=".ember-cli" type="PLAIN_TEXT" />
+      <mapping pattern="rabbit-queues-list" type="PLAIN_TEXT" />
+      <mapping pattern="old_out" type="PLAIN_TEXT" />
+      <mapping pattern="we" type="PLAIN_TEXT" />
+      <mapping pattern="vars" type="PLAIN_TEXT" />
+      <mapping ext="local" type="PLAIN_TEXT" />
+      <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="appass" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="37__cteate_audit_templates_tables" type="PLAIN_TEXT" />
+      <mapping ext="nc-stage" type="PLAIN_TEXT" />
+      <mapping ext="scaml" type="Web2Py" />
+    </extensionMap>
+  </component>
+</application>
